@@ -1,0 +1,318 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.3)  5 FEB 2014 14:31
+entering extended mode
+**LaTeX1.tex
+(C:\Users\viveka\Dropbox\HIG\PhD\Latex\CIRA_CLOUD\LaTeX1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{titlepage}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+[] 
+ []
+
+! Undefined control sequence.
+l.18 \Large
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (27.50536pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 Title 
+ []
+
+
+Overfull \hbox (11.71107pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 of 
+ []
+
+
+Overfull \hbox (17.62213pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 the 
+ []
+
+
+Overfull \hbox (24.33594pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 Doc- 
+ []
+
+
+Overfull \hbox (9.91106pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 u- 
+ []
+
+
+Overfull \hbox (25.08876pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 ment 
+ []
+
+
+Overfull \hbox (42.68863pt too wide) in paragraph at lines 27--27
+ []\OT1/cmr/m/sc/10 Masters 
+ []
+
+
+Overfull \hbox (23.34984pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 The- 
+ []
+
+
+Overfull \hbox (12.17772pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 sis 
+ []
+
+
+Overfull \hbox (18.39993pt too wide) in paragraph at lines 27--27
+ []\OT1/cmr/m/sc/10 von 
+ []
+
+
+Overfull \hbox (51.96918pt too wide) in paragraph at lines 27--27
+ []\OT1/cmr/m/sc/10 Firstname 
+ []
+
+
+Overfull \hbox (27.23315pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 Last- 
+ []
+
+
+Overfull \hbox (25.311pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 name 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...rn on the 29th of February 1974 in Town}}}
+                                                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.31104pt too wide) in paragraph at lines 27--27
+ []\OT1/cmr/m/sc/10 born 
+ []
+
+
+Overfull \hbox (12.48885pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 on 
+ []
+
+
+Overfull \hbox (17.62213pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 the 
+ []
+
+
+Overfull \hbox (23.09984pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 29th 
+ []
+
+
+Overfull \hbox (11.71107pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 of 
+ []
+
+
+Overfull \hbox (34.2137pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 Febru- 
+ []
+
+
+Overfull \hbox (17.62215pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 ary 
+ []
+
+
+Overfull \hbox (22.1109pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 1974 
+ []
+
+
+Overfull \hbox (9.15552pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 in 
+ []
+
+
+Overfull \hbox (28.48318pt too wide) in paragraph at lines 27--27
+ \OT1/cmr/m/sc/10 Town 
+ []
+
+! Undefined control sequence.
+<recently read> \today 
+                       
+l.30 \textsc{\today}
+                    \\ %%Date - better you write it yourself.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (62.41632pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/m/sc/10 Supervisors: 
+ []
+
+
+Overfull \hbox (28.12202pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/m/sc/10 Prof. 
+ []
+
+
+Overfull \hbox (11.3332pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 V. 
+ []
+
+
+Overfull \hbox (29.87202pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 Nach- 
+ []
+
+
+Overfull \hbox (25.311pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 name 
+ []
+
+
+Overfull \hbox (17.5082pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/m/sc/10 Dr. 
+ []
+
+
+Overfull \hbox (11.3332pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 V. 
+ []
+
+
+Overfull \hbox (29.87202pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 Nach- 
+ []
+
+
+Overfull \hbox (25.311pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/sc/10 name 
+ []
+
+
+Overfull \hbox (28.48318pt too wide) in paragraph at lines 40--40
+ []\OT1/cmr/m/sc/10 Town 
+ []
+
+
+Overfull \hbox (21.07207pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 Uni- 
+ []
+
+
+Overfull \hbox (21.511pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 ver- 
+ []
+
+
+Overfull \hbox (19.64435pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 sity 
+ []
+
+
+Overfull \hbox (40.42474pt too wide) in paragraph at lines 40--40
+ []\OT1/cmr/m/sc/10 Faculty 
+ []
+
+
+Overfull \hbox (11.71107pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 of 
+ []
+
+
+Overfull \hbox (9.58319pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 ... 
+ []
+
+
+Overfull \hbox (47.23305pt too wide) in paragraph at lines 40--40
+ []\OT1/cmr/m/sc/10 Institute 
+ []
+
+
+Overfull \hbox (11.71107pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 of 
+ []
+
+
+Overfull \hbox (9.58319pt too wide) in paragraph at lines 40--40
+ \OT1/cmr/m/sc/10 ... 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> LaTeX1.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 12 strings out of 493921
+ 276 string characters out of 3144874
+ 51031 words of memory out of 3000000
+ 3404 multiletter control sequences out of 15000+200000
+ 3941 words of font info for 15 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 13i,1n,10p,96b,133s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

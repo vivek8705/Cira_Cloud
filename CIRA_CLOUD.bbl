@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{6462696}
+P.~Zhou and H.~Leung, ``An integrated risk analysis method using spatial
+  interpolation,'' in {\em Software Engineering Conference (APSEC), 2012 19th
+  Asia-Pacific}, vol.~1, pp.~452--461, Dec 2012.
+
+\bibitem{Karabacak2005147}
+B.~Karabacak and I.~Sogukpinar, ``Isram: information security risk analysis
+  method,'' {\em Computers and Security}, vol.~24, no.~2, pp.~147 -- 159, 2005.
+
+\bibitem{253757}
+A.~Bilbao, ``Tuar-a model of risk analysis in the security field,'' in {\em
+  Security Technology, 1992. Crime Countermeasures, Proceedings. Institute of
+  Electrical and Electronics Engineers 1992 International Carnahan Conference
+  on}, pp.~65--71, Oct 1992.
+
+\bibitem{Kailay1995449}
+M.~P. Kailay and P.~Jarratt, ``Ramex: a prototype expert system for computer
+  security risk analysis and management,'' {\em Computers and Security},
+  vol.~14, no.~5, pp.~449 -- 463, 1995.
+
+\bibitem{lisaB}
+L.~Rajbhandari and E.~Snekkenes, ``Using the conflicting incentives risk
+  analysis method,'' in {\em Security and Privacy Protection in Information
+  Processing Systems} (L.~Janczewski, H.~Wolfe, and S.~Shenoi, eds.), vol.~405
+  of {\em IFIP Advances in Information and Communication Technology},
+  pp.~315--329, Springer Berlin Heidelberg, 2013.
+
+\bibitem{jenkins1998}
+B.~Jenkins, ``Security risk analysis and management,'' 1998.
+
+\bibitem{isf1997}
+I.~S.~F. (ISF), ``Simplified practical risk analysis methodology (sprint) user
+  guide,'' pp.~43--57, 1997.
+
+\bibitem{Alberts:2002:MIS:581794}
+C.~J. Alberts and A.~Dorofee, {\em Managing Information Security Risks: The
+  Octave Approach}.
+\newblock Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 2002.
+
+\bibitem{6203873}
+Y.~Jadeja and K.~Modi, ``Cloud computing - concepts, architecture and
+  challenges,'' in {\em Computing, Electronics and Electrical Technologies
+  (ICCEET), 2012 International Conference on}, pp.~877--880, March 2012.
+
+\bibitem{amazonec2}
+Amazon, ``Amazon elastic compute cloud (ec2) delivers scalable, pay-as-you-go
+  compute capacity in the aws cloud,'' 2013.
+
+\bibitem{zhangmiaobook}
+B.~Zhang, N.~Zhang, H.~Li, F.~Liu, and K.~Miao, ``An efficient cloud
+  computing-based architecture for freight system application in china
+  railway,'' in {\em Cloud Computing} (M.~Jaatun, G.~Zhao, and C.~Rong, eds.),
+  vol.~5931 of {\em Lecture Notes in Computer Science}, pp.~359--368, Springer
+  Berlin Heidelberg, 2009.
+
+\bibitem{lisathesis}
+L.~Rajbhandari, {\em RISK ANALYSIS USING CONFLICTING INCENTIVES AS AN
+  ALTERNATIVE NOTION OF RISK}.
+\newblock PhD thesis, Høgskolen i Gjøvik, October 2013.
+
+\bibitem{mell2011nist}
+P.~Mell and T.~Grance, ``The nist definition of cloud computing,'' Tech. Rep.
+  800-145, National Institute of Standards and Technology (NIST), Gaithersburg,
+  MD, September 2011.
+
+\bibitem{csaguide3.0}
+P.~Simmonds, B.~Bhagat, L.~Lynch, and M.~Pohlman, {\em Security guidance for
+  critical areas of focus in Cloud Computing V3. 0}, vol.~3.0.
+\newblock CLOUD SECURITY ALLIANCE, 2011.
+
+\bibitem{googleapp}
+Google, ``Google cloud platform,'' 2014.
+
+\bibitem{gogrid}
+G.~Grid, ``Cloud platform,'' 2013.
+
+\bibitem{Gartner}
+G.~J.~Brodkin, ``Gartner: Seven cloud-computing security risks,'' 2008.
+
+\bibitem{Sumter:2010:CCS:1900008.1900152}
+L.~Sumter, ``Cloud computing: Security risk,'' in {\em Proceedings of the 48th
+  Annual Southeast Regional Conference}, ACM SE '10, (New York, NY, USA),
+  pp.~112:1--112:4, ACM, 2010.
+
+\bibitem{Bleikertz:2010:SAM:1866835.1866853}
+S.~Bleikertz, M.~Schunter, C.~W. Probst, D.~Pendarakis, and K.~Eriksson,
+  ``Security audits of multi-tier virtual infrastructures in public
+  infrastructure clouds,'' in {\em Proceedings of the 2010 ACM Workshop on
+  Cloud Computing Security Workshop}, CCSW '10, (New York, NY, USA),
+  pp.~93--102, ACM, 2010.
+
+\bibitem{6148380}
+F.~Shaikh and S.~Haider, ``Security threats in cloud computing,'' in {\em
+  Internet Technology and Secured Transactions (ICITST), 2011 International
+  Conference for}, pp.~214--219, Dec 2011.
+
+\bibitem{Lombardi:2010:TSC:1774088.1774176}
+F.~Lombardi and R.~Di~Pietro, ``Transparent security for cloud,'' in {\em
+  Proceedings of the 2010 ACM Symposium on Applied Computing}, SAC '10, (New
+  York, NY, USA), pp.~414--415, ACM, 2010.
+
+\bibitem{Hevner:2004:DSI:2017212.2017217}
+A.~R. Hevner, S.~T. March, J.~Park, and S.~Ram, ``Design science in information
+  systems research,'' {\em MIS Q.}, vol.~28, pp.~75--105, Mar. 2004.
+
+\bibitem{Geerts2011142}
+G.~L. Geerts, ``A design science research methodology and its application to
+  accounting information systems research,'' {\em International Journal of
+  Accounting Information Systems}, vol.~12, no.~2, pp.~142 -- 151, 2011.
+\newblock Special Issue on Methodologies in \{AIS\} Research.
+
+\end{thebibliography}

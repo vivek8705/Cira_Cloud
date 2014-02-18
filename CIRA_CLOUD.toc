@@ -1,0 +1,26 @@
+\select@language {USenglish}
+\contentsline {chapter}{\numberline {1}ABSTRACT}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Introduction}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Background (< 1/2 p)}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Problem Statement (3 lines + 5 lines )}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Motivation (<1/2 pages)}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Research Questions (1/2-1 p)}{5}{section.2.4}
+\contentsline {chapter}{\numberline {3}Related Work (3-10 p)}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Risk Analysis}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Cloud Computing}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Essential Characteristics}{8}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Service Models}{9}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Security and Privacy issues}{9}{section.3.3}
+\contentsline {chapter}{\numberline {4}Research Methodology (2 - 4p)}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Design Science}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Methods and research questions}{13}{section.4.2}
+\contentsline {chapter}{\numberline {5}Milestone}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}External Institution}{15}{section.5.1}
+\contentsline {section}{\numberline {5.2}Paper publications (<2 p)}{15}{section.5.2}
+\contentsline {section}{\numberline {5.3}Research Risk and Mitigation (< 2 p)}{15}{section.5.3}
+\contentsline {section}{\numberline {5.4}Conferences and Journals}{16}{section.5.4}
+\contentsline {chapter}{\numberline {6}Supervision}{17}{chapter.6}
+\contentsline {chapter}{\numberline {7}Funding Plan}{18}{chapter.7}
+\contentsline {chapter}{\numberline {8}Ethical and legal considerations}{19}{chapter.8}
+\vspace *{\baselineskip }
+\contentsline {chapter}{Bibliography}{20}{Item.26}
